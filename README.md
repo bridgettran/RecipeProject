@@ -7,4 +7,32 @@ Recipe App:
 
 ## Project Folder Structure
 ```text
+com.example.healthyrecipeapp/
+├── api/
+│   ├── model/
+│   │   ├── Api.kt
+│   │   ├── RecipesManager.kt
+│   │   └── RecipesService.kt
+│   └── Api-related logic for Edamam integration.
+├── db/
+│   ├── AppDatabase.kt
+│   └── RecipeDao.kt
+├── destinations/
+│   └── Destination.kt
+├── mvvm/
+│   └── RecipeViewModel.kt
+├── navigation/
+│   └── Navigation.kt
+├── screens/
+│   ├── AuthScreen.kt
+│   ├── HomeScreen.kt
+│   ├── RecipeDetailScreen.kt
+│   ├── SavedScreen.kt
+│   ├── SearchScreen.kt
+│   └── SignInScreen.kt
+├── ui/
+│   └── UI components and styling logic.
+├── utility/
+│   ├── MainActivity.kt
+│   └── SignInActivity.kt
 ```
