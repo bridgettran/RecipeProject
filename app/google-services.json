@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223227233309",
+    "project_id": "recipefinalproject-245e4",
+    "storage_bucket": "recipefinalproject-245e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223227233309:android:af9c57c10b1823bbc072f4",
+        "android_client_info": {
+          "package_name": "com.example.heathlyrecipeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhtR0gnlyZKW02FmaFhdrCiC4ruMF_7cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
